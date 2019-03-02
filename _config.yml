@@ -19,18 +19,17 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 TesT
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  In 2016, I obtained a M.SC. in Theoretical and Applied Physics at the University of Antananarivo under the supervision of Prof. Raboanary Roland. The same year, I was a Summer Student at the European Organization for Nuclear Research (<a target="_blank" href="https://home.cern/">CERN</a>) working with the LHCb experiment. Afterward, I moved to Cape Town in South Africa where I was awarded a M.Sc. in Mathematical Sciences from <a target="_blank" href="http://www.sun.ac.za/english">Stellenbosch University</a> (2017) followed by a M.Sc. in Theoretical Physics at the <a target="_blank" href="http://www.uct.ac.za/">University of Cape Town</a> (2018) both under the Supervision of Dr. W. A. Horowitz. I am currently a Ph.D. fellow at the <a target="_blank" href="http://phd.fisica.unimi.it/">Department of Physics</a>-<a target="_blank" href="http://www.unimi.it/">University of Milan</a> (Statale) working within the remarkable <a target="_blank" href="http://n3pdf.mi.infn.it/">N3PDF</a> group (in collab. with <a target="_blank" href="http://nnpdf.mi.infn.it/">NNPDF</a>) under the supervision of Prof. Stefano Forte. My area of interests span a wide range of topics in high energy particle physics (in particular, Quantum Chromodynamics or QCD Phenomenology) and machine learning. 
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  # "Best Jekyll Theme by a Mile".
+  # Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,8 +41,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Tanjona R. Rabemananjara
+  email:               <tanjona.rabemananjara@unimi.it>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
